@@ -1,0 +1,19 @@
+= Breaking docker chains
+Jakub Veverka
+:backend: revealjs
+:revealjs_theme: solarized
+:revealjs_control: false
+:revealjsdir: ../reveal.js
+:imagesdir: ./images
+
+== Why the change
+
+image::containers.jpg[Containers, role="right"]
+
+== Slide Two
+
+[%step]
+* this
+* is
+* revealed
+* gradually
